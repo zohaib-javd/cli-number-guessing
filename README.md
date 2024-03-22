@@ -1,2 +1,4 @@
 # cli-number-guessing
-this is a cli based numbers guessing game
+This is a cli based numbers guessing game
+
+Author: Zohaib Javed
