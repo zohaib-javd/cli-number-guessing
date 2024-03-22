@@ -3,7 +3,7 @@
 import inquirer from "inquirer";
 
 const randomNumber = Math.floor(Math.random() * 6 + 1);
-// console.log(randomNumber);
+console.log(Welcome to Number Guessing Game!);
 
 const answers = await inquirer.prompt([
   {
